@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Jumpable
+  - Poison
+  - Snake
+  - Spider
+  - sa
+  - Monkey
+  - FirstButton
+  - SecondButton
+  - First
+  - Second
+  - PlayerModeText
+  - Bullet
+  - BulletTrap
+  - Drone
+  - SpiderArms
+  - Button
+  - light
+  - Bat
+  - SecondImages
+  - FirstImages
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Poison
+  - Water
+  - UI
+  - Wall
+  - WebItem
+  - bullet
+  - bulletTrap
+  - drone
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
